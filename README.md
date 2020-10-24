@@ -1,6 +1,6 @@
 # NodeJS - Bootstrapping Mocha Test Suite
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tdd-workshops/tdd-lab-nodejs-jest)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tdd-workshops/tdd-lab-nodejs-mocha)
 
 Here's instructions on installing Mocha and Chai for Node.
 
